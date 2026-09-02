@@ -101,3 +101,19 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Become a professional Full-Stack Web Developer
+- ⚛️ Build production-ready React & Next.js applications
+- 🖥️ Strengthen Node.js backend development skills
+- 🗄️ Improve PostgreSQL and database design skills
+- 🧠 Improve problem-solving and algorithmic thinking
+- 🌍 Build and deploy real-world projects
+- 🤝 Contribute to open-source projects
+
+<p align="center"> <b>Thanks for visiting my profile! 🚀</b> </p>
+
+<p align="center"> <i>Let's build something amazing together.</i> </p>
