@@ -19,69 +19,72 @@ I’m a passionate Full-Stack Web Developer focused on building modern, responsi
 - 📝 Articles: I regularly write tech content on https://linkedin.com/in//abdurrazzak1
 - 📫 How to reach me: Email me at abdurrazzaqsakib@gmail.com
 ### My Location
-- Chittagong Sandwip Bangladesh 
+<p align="left">
+   <img src="https://img.shields.io/badge/Location-Bangladesh-1e1e2e?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
 
 ---
 
-### 🌐 FOLLOW ME ON SOCIALS:
 
-<p align="left">
-  <a href="https://linkedin.com/in/abdurrazzak1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/abdurrazzak2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://facebook.com/abdur346" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+<h2><img src="https://api.iconify.design/lucide/link.svg?color=%233B82F6" width="24" align="absmiddle"/> FOLLOW ME ON SOCIALS </h2>
+  <a href="https://www.linkedin.com/in/abdurrazzak1"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.youtube.com/"><img src="https://www.svgrepo.com/show/475700/youtube-color.svg" width="50"/></a>
+  <a href="https://www.facebook.com/abdur346"><img src="https://www.svgrepo.com/show/452196/facebook-1.svg" width="50"/></a>
+  <a href="abdurrazzaqsakib@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 
 
 ---
 
 
-### 🛠️ TECHNOLOGY STACK:
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide/layers.svg?color=%233B82F6" width="24" align="absmiddle"/> Tech Stack</h2>
+  <p>
+    <strong>Languages:</strong> <br> <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=light">
+      <img src="https://skillicons.dev/icons?i=c%2Ccpp%2Cjava%2Cjs%2Cpython%2Ckotlin&theme=dark" />
+    </picture>
+  </p>
+  <p>
+    <strong>Frontend & Backend:</strong><br> <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=light">
+      <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cbootstrap%2Cnodejs%2Cexpress&theme=dark" />
+    </picture>
+  </p>
+  <p>
+    <strong>Databases:</strong><br> <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=light">
+      <img src="https://skillicons.dev/icons?i=mongodb%2Cmysql%2Cpostgres%2Cfirebase&theme=dark" />
+    </picture>
+  </p>
+  <p>
+    <strong>Tools:</strong><br> <br/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=light">
+      <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cvercel%2Cpostman%2Clinux%2Cvscode%2Cdocker%2Caws&theme=dark" />
+    </picture>
+  </p>
+</div>
 
-#### 💻 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-</p>
+<br/>
 
-#### ⚛️ Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
-</p>
-
-#### 🖥️ Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-</p>
-
-#### 🗄️ Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-</p>
-
-#### 🎨 Design
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
-</p>
-
-#### 🧰 Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-</p>
+<div align="center">
+  <h2><img src="https://api.iconify.design/lucide/trophy.svg?color=%233B82F6" width="24" align="absmiddle"/> Competitive Programming Profiles</h2>
+  <a href="https://codeforces.com/profile/Nafiz_365"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Nafiz_365/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/nafiz_365"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/Nafiz_365"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://judge.beecrowd.com/en/profile/1034232"><img src="https://img.shields.io/badge/BeeCrowd-FF6F00?style=for-the-badge"/></a>
+  <a href="https://www.codewars.com/users/Nafiz-365"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+  <a href="https://vjudge.net/user/Nafiz_365"><img src="https://img.shields.io/badge/VJudge-0A0A0A?style=for-the-badge"/></a>
+</div>
 
 ---
 
