@@ -1,37 +1,82 @@
 ![Full stock webdebloper ](https://i.postimg.cc/sfmwLj0q/github.png)
-# Hi there 👋, I'm Abdur Razzak Sakib
-## Full stock webdebloper 
+# 👋 Hi, I'm [Your Name]
 
-## About Me
+### 🎯 Interested in Full-Stack Web Development
 
-I'm **Abdur Razzak Sakib**, a passionate **Full-Stack Web Developer** focused on building modern, responsive, and high-performance web applications. I enjoy creating clean user interfaces and developing efficient, scalable backend systems using modern technologies.
+- 🔭 I’m currently working on: React.js, Next.js, TypeScript, and Redux.
+- ⚡ Using: Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for backend development.
+- 🌱 I’m currently learning: React Native, GraphQL, Docker, and AWS.
+- 💬 Ask me about: Full-Stack development (React, Next.js, Node.js, Express, MongoDB, PostgreSQL).
+- 🔗 Portfolio & Resume: Explore My Portfolio [your-portfolio.com](https://your-portfolio.com) and My Resume.
+- 📝 Articles: I regularly write tech content on [LinkedIn](https://linkedin.com/in/your-username).
+- 📫 How to reach me: Email me at [your-email@example.com](mailto:your-email@example.com)
 
-I'm currently improving my skills in **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, and PostgreSQL** while exploring advanced web development and system design.
+---
 
-My goal is to become a highly skilled Full-Stack Developer and build reliable, scalable, and impactful digital products that solve real-world problems.
+### 🌐 FOLLOW ME ON SOCIALS:
+<p align="left">
+  <a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://dev.to/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+</p>
 
-Skills:  REACT / JS / HTML / CSS/ Tailwind-CSS/ TypeScript 
+---
 
-- 🔭 I’m currently working on Building modern, responsive & full-stack web applications. 
-- 🌱 I’m currently learning React.js  
-- 👯 I’m looking to collaborate on Full-stack projects, open-source & real-world web applications. 
-- 🤔 I’m looking for help with Advanced backend architecture. 
-- 💬 Ask me about React, JavaScript, TypeScript, Tailwind CSS & Full-Stack Development. 
-- 📫 How to reach me: GitHub, LinkedIn or Email 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I love turning ideas into real-world web applications. 
+### 🛠️ TECHNOLOGY STACK:
 
+#### 🔗 Languages:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdsakibdev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdurrazzak1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abdur346)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Abdur-Razzaq-Sakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdsakibdev.github.io/Modern-Personal-Portfolio-Website/)  
+#### 🎨 CSS Frameworks & Libraries:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+</p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+#### ⚛️ JavaScript Frameworks & Libraries:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdsakibdev)](https://github.com/ryo-ma/github-profile-trophy)
+#### 🛢️ Database & Model:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsakibdev)](https://github.com/anuraghazra/github-readme-stats)
+#### 🎨 Design & Graphics:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsakibdev&show_icons=true&count_private=true)  
+#### 🧰 Tools & Technologies:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d7059-3141-480b-8abd-d90d04f56025.png" alt="vscode" width="40" height="40"/>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/mdsakibdev)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdsakibdev)
+### 📊 GITHUB STATISTICS & ANALYSIS:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+---
+
+### 💬 RANDOM DEV QUOTE:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
