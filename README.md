@@ -5,34 +5,41 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
 </p>
 
+## 👨‍💻 About Me
+
+I’m a passionate Full-Stack Web Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world products and continuously improving my problem-solving and development skills.
+
 ### 🎯 Interested in Full-Stack Web Development
 
 - 🔭 Building modern, responsive & full-stack web applications.
 - ⚡ Using: Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for backend development.
 - 🌱 Next.js, TypeScript, Node.js, PostgreSQL & System Design.
 - 💬 Ask me about: Full-Stack development (React, Next.js, Node.js, PostgreSQL).
-- 🔗 Portfolio & Resume: Explore My Portfolio [your-portfolio.com](https://mdsakibdev.github.io/Modern-Personal-Portfolio-Website/) and My Resume.
-- 📝 Articles: I regularly write tech content on [LinkedIn](https://linkedin.com/in//abdurrazzak1).
-- 📫 How to reach me: Email me at [your-email@example.com](abdurrazzaqsakib@gmail.com)
+- 🔗 Portfolio & Resume: Explore My Portfolio https://mdsakibdev.github.io/Modern-Personal-Portfolio-Website
+- 📝 Articles: I regularly write tech content on https://linkedin.com/in//abdurrazzak1
+- 📫 How to reach me: Email me at abdurrazzaqsakib@gmail.com
+### My Location
+- Chittagong Sandwip Bangladesh 
 
 ---
 
 ### 🌐 FOLLOW ME ON SOCIALS:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://linkedin.com/in/abdurrazzak1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/your-discord-invite" target="_blank">
+  <a href="https://discord.gg/abdurrazzak2" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://facebook.com/your-facebook-username" target="_blank">
+  <a href="https://facebook.com/abdur346" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
 
 ---
+
 
 ### 🛠️ TECHNOLOGY STACK:
 
