@@ -1,23 +1,36 @@
 ![Full stock webdebloper ](https://i.postimg.cc/sfmwLj0q/github.png)
-# 👋 Hi, I'm [Your Name]
+<h1 align="center">Hi 👋, I'm Abdur Razzak Sakib</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Web+Developer;React+%26+Node.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Passionate+About+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
 
 ### 🎯 Interested in Full-Stack Web Development
 
-- 🔭 I’m currently working on: React.js, Next.js, TypeScript, and Redux.
+- 🔭 Building modern, responsive & full-stack web applications.
 - ⚡ Using: Node.js, Express.js, MongoDB, PostgreSQL, and Prisma for backend development.
-- 🌱 I’m currently learning: React Native, GraphQL, Docker, and AWS.
-- 💬 Ask me about: Full-Stack development (React, Next.js, Node.js, Express, MongoDB, PostgreSQL).
-- 🔗 Portfolio & Resume: Explore My Portfolio [your-portfolio.com](https://your-portfolio.com) and My Resume.
-- 📝 Articles: I regularly write tech content on [LinkedIn](https://linkedin.com/in/your-username).
-- 📫 How to reach me: Email me at [your-email@example.com](mailto:your-email@example.com)
+- 🌱 Next.js, TypeScript, Node.js, PostgreSQL & System Design.
+- 💬 Ask me about: Full-Stack development (React, Next.js, Node.js, PostgreSQL).
+- 🔗 Portfolio & Resume: Explore My Portfolio [your-portfolio.com](https://mdsakibdev.github.io/Modern-Personal-Portfolio-Website/) and My Resume.
+- 📝 Articles: I regularly write tech content on [LinkedIn](https://linkedin.com/in//abdurrazzak1).
+- 📫 How to reach me: Email me at [your-email@example.com](abdurrazzaqsakib@gmail.com)
 
 ---
 
 ### 🌐 FOLLOW ME ON SOCIALS:
+
 <p align="left">
-  <a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://dev.to/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/your-discord-invite" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://facebook.com/your-facebook-username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
+
 
 ---
 
@@ -65,6 +78,12 @@
 ---
 
 ### 📊 GITHUB STATISTICS & ANALYSIS:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
