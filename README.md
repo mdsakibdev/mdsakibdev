@@ -85,17 +85,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdsakibdev/mdsakibdev/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
-### 💬 RANDOM DEV QUOTE:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
